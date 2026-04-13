@@ -1,5 +1,5 @@
 <!-- Profile README for @kosardev -->
-<h1 align="center">Hi, I'm Kosar 👋</h1>
+<h1 align="center">Hi, I'm Ava 👋</h1>
 <p align="center">
 Frontend Developer — <b>React • Next.js • TypeScript</b>  
 <br/> 🇩🇪 German B2 • Open to relocate (Germany • Netherlands • Austria)
